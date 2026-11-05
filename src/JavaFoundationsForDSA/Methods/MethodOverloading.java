@@ -2,10 +2,9 @@ package JavaFoundationsForDSA.Methods;
 
 public class MethodOverloading {
     public static void main(String[] args) {
-
         add(10,20);
-        add(10, 20, 30);
-        add(10.5, 20.5);
+        add(10.3,10.8);
+        add(1,2,3);
     }
 
     public static void add(int a, int b) {
