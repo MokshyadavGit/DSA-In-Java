@@ -1,4 +1,4 @@
-package JavaFoundationsForDSA.Classes;
+package JavaFoundationsForDSA.ClassesandObjects;
 
 public class Student {
     String name;
