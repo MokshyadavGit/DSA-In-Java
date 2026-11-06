@@ -1,4 +1,4 @@
-package JavaFoundationsForDSA.Methods;
+package JavaFoundationsForDSA.Basics_Of_JAVA_Programming.Methods;
 
 import java.util.Scanner;
 

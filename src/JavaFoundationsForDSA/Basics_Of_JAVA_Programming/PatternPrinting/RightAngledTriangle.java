@@ -1,4 +1,4 @@
-package JavaFoundationsForDSA.PatternPrinting;
+package JavaFoundationsForDSA.Basics_Of_JAVA_Programming.PatternPrinting;
 
 import java.util.Scanner;
 

@@ -1,19 +1,19 @@
-package JavaFoundationsForDSA.PatternPrinting;
+package JavaFoundationsForDSA.Basics_Of_JAVA_Programming.PatternPrinting;
 
 import java.util.Scanner;
 
-public class InvertedStarPattern {
+public class CubePattern {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the value of n");
         int n = sc.nextInt();
-        print1(n);
+        pattern(n);
     }
-    public static void print1 (int n) {
-        for(int i=1;i<=n;i++){
-            for(int j=n;j>=i;j--)
+    public static void pattern(int n) {
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++)
             {
-                System.out.print("* ");
+                System.out.print('*');
             }
             System.out.println();
         }

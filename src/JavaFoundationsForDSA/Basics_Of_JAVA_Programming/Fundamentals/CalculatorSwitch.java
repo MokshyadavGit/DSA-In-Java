@@ -1,6 +1,4 @@
-package JavaFoundationsForDSA.Fundamentals;
-import java.util.*;
-import java.sql.SQLOutput;
+package JavaFoundationsForDSA.Basics_Of_JAVA_Programming.Fundamentals;
 import java.util.Scanner;
 
 public class CalculatorSwitch {

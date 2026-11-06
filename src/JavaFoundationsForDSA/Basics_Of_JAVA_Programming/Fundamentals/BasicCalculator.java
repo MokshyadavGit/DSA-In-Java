@@ -1,4 +1,4 @@
-package JavaFoundationsForDSA.Fundamentals;
+package JavaFoundationsForDSA.Basics_Of_JAVA_Programming.Fundamentals;
 import java.util.Scanner;
 public class BasicCalculator {
     public static void main(String[] args) {

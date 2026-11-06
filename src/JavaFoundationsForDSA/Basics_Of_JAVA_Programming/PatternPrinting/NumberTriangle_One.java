@@ -1,6 +1,4 @@
-package JavaFoundationsForDSA.PatternPrinting;
-
-import java.util.Scanner;
+package JavaFoundationsForDSA.Basics_Of_JAVA_Programming.PatternPrinting;
 
 public class NumberTriangle_One {
     public static void main(String[] args) {

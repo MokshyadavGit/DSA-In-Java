@@ -1,4 +1,4 @@
-package JavaFoundationsForDSA.ClassesandObjects;
+package JavaFoundationsForDSA.Basics_Of_JAVA_Programming.ClassesandObjects;
 
 public class Employee {
     String name;
